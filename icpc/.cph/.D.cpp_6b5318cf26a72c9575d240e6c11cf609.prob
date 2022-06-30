@@ -1,0 +1,1 @@
+{"name":"Local: D","url":"d:\\Abhinav\\icpc\\D.cpp","tests":[{"id":1649953659379,"input":"5\n8 3\n.XX.X.X.\n3 50\n...\n8 1\n..XX...\n10 4\n..XXXX.XX.\n10 3\n..X..XXX..","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Abhinav\\icpc\\D.cpp","group":"local","local":true}
