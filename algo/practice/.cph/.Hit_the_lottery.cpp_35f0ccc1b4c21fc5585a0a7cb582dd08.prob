@@ -1,0 +1,1 @@
+{"name":"Local: Hit_the_lottery","url":"d:\\Abhinav\\c++\\practice\\Hit_the_lottery.cpp","tests":[{"id":1606910114893,"input":"43","output":"5"},{"id":1607008497235,"input":"100","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Abhinav\\c++\\practice\\Hit_the_lottery.cpp","group":"local","local":true}

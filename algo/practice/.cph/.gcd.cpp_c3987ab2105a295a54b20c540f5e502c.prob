@@ -1,0 +1,1 @@
+{"name":"Local: gcd","url":"d:\\Abhinav\\c++\\practice\\gcd.cpp","tests":[{"id":1607019197161,"input":"6 9","output":"3\n18"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Abhinav\\c++\\practice\\gcd.cpp","group":"local","local":true}

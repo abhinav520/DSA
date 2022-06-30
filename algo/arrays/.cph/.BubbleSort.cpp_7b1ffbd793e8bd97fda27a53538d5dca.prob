@@ -1,0 +1,1 @@
+{"name":"Local: BubbleSort","url":"d:\\Abhinav\\c++\\arrays\\BubbleSort.cpp","tests":[{"id":1606910195814,"input":"5\n23\n45\n65\n2\n78","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Abhinav\\c++\\arrays\\BubbleSort.cpp","group":"local","local":true}

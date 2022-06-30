@@ -1,0 +1,1 @@
+{"name":"Local: ArithmaticArray_Kickstart","url":"d:\\Abhinav\\c++\\arrays\\ArithmaticArray_Kickstart.cpp","tests":[{"id":1607072156933,"input":"7\n10 7 4 6 8 10 11","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Abhinav\\c++\\arrays\\ArithmaticArray_Kickstart.cpp","group":"local","local":true}

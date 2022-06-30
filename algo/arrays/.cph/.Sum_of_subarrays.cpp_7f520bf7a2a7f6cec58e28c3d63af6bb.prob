@@ -1,0 +1,1 @@
+{"name":"Local: Sum_of_subarrays","url":"d:\\Abhinav\\c++\\arrays\\Sum_of_subarrays.cpp","tests":[{"id":1606924792887,"input":"5\n1 2 3 4 5","output":"1\n3\n6\n10\n15\n2\n5\n9\n14\n3\n7\n12\n4\n9\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Abhinav\\c++\\arrays\\Sum_of_subarrays.cpp","group":"local","local":true}
